@@ -48,14 +48,16 @@ cada cambio.
 
 La segunda mejor manera es aplicar los conocimientos propios para ayudar a
 estudiantes del curso que puedan estar teniendo dificultades en el uso de su
-repositorio.
+repositorio. (Ver archivo `karma.txt`.)
 
 En tercer lugar, a lo largo de la cursada irán “apareciendo” en este
 directorio pequeñas tareas o actividades en que se podrán demostrar o
-adquirir nuevos conocimientos.
+adquirir nuevos conocimientos. Un ejemplo de este tipo de actividad ya se
+puede encontrar en [`tareas/id.md`](tareas/id.md).
 
 Por último, para quien tenga un mayor interés (o sencillamente más
 tiempo), se valorará muy positivamente una participación más colaborativa,
 por ejemplo diseñando tareas para el pseudo-lab, haciendo pequeñas
 presentaciones en clase (sobre Git o cualquier otra cosa), o en general
-respondiendo a las oportunidades y challenges del curso.
+respondiendo a las oportunidades y challenges del curso. (El archivo de
+enlaces mencionado arriba es un ejemplo de este tipo de actividad.)
