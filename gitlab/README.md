@@ -28,7 +28,7 @@ dominio de Git para realizar las entregas. De hecho, se podrán entregar los
 trabajos prácticos sin ni siquiera *instalar* Git: siempre habrá disponible
 para su descarga un archivo ZIP con todos esqueletos, y se podrán entregar
 los trabajos desde la propia página web de Github.
-    
+
 Pero sí se recompensará, mediante puntos adicionales sobre la nota final, el
 uso adecuado de Git en el desarrollo de cada lab (ver estrategias abajo).
 
