@@ -1,0 +1,21 @@
+Puntos de karma
+===============
+
+    Cualquier persona del curso puede dar puntos de karma a otra
+    mediante un commit en cuya descripción se expliquen los
+    motivos. El motivo puede ser cualquier tipo de ayuda recibida,
+    no necesariamente con Git.
+
+    Para integrar el cambio en el repositorio de la cátedra, quien
+    otorga el karma debe enviar un Pull Request, y quien recibe el
+    karma lo debe aprobar.
+
+                              ~ ~ ~
+
+augusjoa	1
+luciakasman	1
+marcosriarte	1
+mendezmariano	1
+mlafroce	1
+ncontinanza	1
+tomasbustamante	1
